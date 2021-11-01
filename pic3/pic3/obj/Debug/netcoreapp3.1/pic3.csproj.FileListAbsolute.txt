@@ -1,0 +1,14 @@
+C:\Users\tu201803071\source\repos\pic3\pic3\bin\Debug\netcoreapp3.1\pic3.exe
+C:\Users\tu201803071\source\repos\pic3\pic3\bin\Debug\netcoreapp3.1\pic3.deps.json
+C:\Users\tu201803071\source\repos\pic3\pic3\bin\Debug\netcoreapp3.1\pic3.runtimeconfig.json
+C:\Users\tu201803071\source\repos\pic3\pic3\bin\Debug\netcoreapp3.1\pic3.runtimeconfig.dev.json
+C:\Users\tu201803071\source\repos\pic3\pic3\bin\Debug\netcoreapp3.1\pic3.dll
+C:\Users\tu201803071\source\repos\pic3\pic3\bin\Debug\netcoreapp3.1\pic3.pdb
+C:\Users\tu201803071\source\repos\pic3\pic3\obj\Debug\netcoreapp3.1\pic3.csproj.AssemblyReference.cache
+C:\Users\tu201803071\source\repos\pic3\pic3\obj\Debug\netcoreapp3.1\pic3.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\tu201803071\source\repos\pic3\pic3\obj\Debug\netcoreapp3.1\pic3.AssemblyInfoInputs.cache
+C:\Users\tu201803071\source\repos\pic3\pic3\obj\Debug\netcoreapp3.1\pic3.AssemblyInfo.cs
+C:\Users\tu201803071\source\repos\pic3\pic3\obj\Debug\netcoreapp3.1\pic3.csproj.CoreCompileInputs.cache
+C:\Users\tu201803071\source\repos\pic3\pic3\obj\Debug\netcoreapp3.1\pic3.dll
+C:\Users\tu201803071\source\repos\pic3\pic3\obj\Debug\netcoreapp3.1\pic3.pdb
+C:\Users\tu201803071\source\repos\pic3\pic3\obj\Debug\netcoreapp3.1\pic3.genruntimeconfig.cache
